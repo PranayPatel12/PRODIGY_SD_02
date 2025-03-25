@@ -6,6 +6,7 @@ This program runs a number-guessing game where a random number between 1 and 10,
 📌 Overview
 This is an interactive number-guessing game where a random number between 1 and 10,000,000 is generated, and the player has to guess it. The program provides hints based on the guess, indicating whether it's too high, too low, or very close. The game continues until the correct number is guessed, and the total number of attempts is displayed at the end.
 
+
 🎮 How to Play
 🏁 Run the program
 🔢 Enter a number as your guess
@@ -22,6 +23,7 @@ This is an interactive number-guessing game where a random number between 1 and 
 ✅ Provides hints to guide the player 🎯
 ✅ Keeps track of the number of guesses 📊
 ✅ Displays a congratulatory message upon winning 🎉
+
 
 ⚙️ Requirements
 ☕ Java Development Kit (JDK) installed
